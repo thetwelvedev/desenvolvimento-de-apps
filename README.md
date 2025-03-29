@@ -1,6 +1,6 @@
 <h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Símbolo Flutter" width="30" style="vertical-align: middle;">
-  densenvolvimento-de-apps
+  Densenvolvimento de Apps
 </h1>
 
 ## Desenvolvendo apps para Android, IOS e Web com apenas um código
