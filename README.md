@@ -5,9 +5,10 @@
 
 ## Desenvolvendo apps para Android, IOS e Web com apenas um código
 ### Aprendendo Dart básico
-> Váriaveis básicas, operadores aritméticos, operadores lógicas, il/else, operador ternário, switch, while, do-while e for.
-<!-- > Funções, variáveis Nullable e Non-Nullable, parâmetros de funções, funções anônimas, retorno de funções Nullables e escopo. -->
-
+<!-- 
+* **Váriaveis básicas, operadores aritméticos, operadores lógicas, il/else, operador ternário, switch, while, do-while e for.**
+* **Funções, variáveis Nullable e Non-Nullable, parâmetros de funções, funções anônimas, retorno de funções Nullables e escopo.**
+-->
 ## Ferramentas e Tecnologias Utilizadas:
 <div>
     <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="VS Code">
